@@ -1,6 +1,6 @@
 # Meta-Prompting
 
-[![arXiv](https://img.shields.io/badge/arXiv-2409.02551v1-b31b1b.svg)](https://arxiv.org/abs/2409.02551v1) **Deep Learning for Multi-Country GDP Prediction: A Study of Model Performance and Data Impact
+[![arXiv](https://img.shields.io/badge/arXiv-2409.02551v1-b31b1b.svg)](https://arxiv.org/abs/2409.02551v1) **Deep Learning for Multi-Country GDP Prediction: A Study of Model Performance and Data Impact**
 
 
 **Deep Learning for Multi-Country GDP Prediction** In this paper we give a comprehensive study on the GDP growth forecasting in the multi-country scenario by deep learning algorithms.
