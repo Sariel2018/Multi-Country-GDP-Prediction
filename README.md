@@ -59,13 +59,6 @@ python run_lstm_q.py
 **Note:** Please make sure the dataset path is right. 
 **Note:** In Time-LLM, we use describe_add as our prompt.
 
-```python
-python evaluate_outputs.py \
-    --directory "outputs/*/" \
-    --task "GameOf24"
-```
-
-**Example Commands:** For your convenience, we have included a set of example scripts for running experiments and evaluating outputs in the `example_commands.sh` file. You can use the commands in this file as a starting point for your own experiments and evaluations.
 
 ## Citation Guidelines
 
