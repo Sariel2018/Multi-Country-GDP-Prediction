@@ -62,7 +62,7 @@ python run_lstm_q.py
 
 ## Citation Guidelines
 
-We encourage citing our paper if our data or findings are used in your research. Please also acknowledge the original authors and models used and referenced in our work.
+If you find this repo useful in your research, please consider citing our paper as follows. Please also acknowledge the original authors and models used and referenced in our work.
 
 ```bibtex
 @article{xie2024deep,
